@@ -2,15 +2,6 @@
 
 This repository contains the code, data, and report for my pet project.
 
-A-JOURNEY-OF-UP-AND-DOWNS/
-    notebooks/
-       pet_project.ipynb
-    data/
-        my_mood_dataset - Full 1.csv
-    report/
-         A_JOURNEY_OF_UP_AND_DOWNS.pdf
-    README.md
-
 
 ## Requirements
 - Python 3.x
