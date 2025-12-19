@@ -1,16 +1,12 @@
-"# A-JOURNEY-OF-UP-AND-DOWNS" 
+# A-JOURNEY-OF-UP-AND-DOWNS" 
 
 This repository contains the code, data, and report for my pet project.
-
-- `notebooks/` – Jupyter notebooks with the analysis
-- `data/` – Database used in the project
-- `report/` – Final PDF report
 
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
 
-##To reproduce
+## To reproduce
 
 ### Easiest way (web upload)
 1. Open your repository on GitHub
